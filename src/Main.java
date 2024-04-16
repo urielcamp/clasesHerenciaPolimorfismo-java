@@ -19,8 +19,13 @@ public class Main {
         //Ejercicio 3
 
         Persona p1 = new Persona();
-        System.out.println(p1.getCiudad());
-        System.out.println(p1.getBarrio());
+        //System.out.println(p1.getCiudad());
+        //System.out.println(p1.getBarrio());
+
+        //Ejercicio 4
+
+        Perro perro = new Perro();
+        perro.hacerSonido();
 
 
 
