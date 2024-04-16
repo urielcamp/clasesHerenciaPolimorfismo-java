@@ -6,6 +6,18 @@ public class Main {
         //Ejercicio 1
         Automovil a1 = new Automovil(180, 2016, "ford");
 
+        //Ejercicio 2
+
+        Circulo c1 = new Circulo(2);
+        c1.calcularArea();
+        c1.calcularPerimetro();
+
+        Cuadrado cu1 = new Cuadrado(5);
+        cu1.calcularArea();
+        cu1.calcularPerimetro();
+
+
+
 
     }
 }
