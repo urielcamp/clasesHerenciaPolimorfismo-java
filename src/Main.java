@@ -9,12 +9,18 @@ public class Main {
         //Ejercicio 2
 
         Circulo c1 = new Circulo(2);
-        c1.calcularArea();
-        c1.calcularPerimetro();
+        //c1.calcularArea();
+        //c1.calcularPerimetro();
 
         Cuadrado cu1 = new Cuadrado(5);
-        cu1.calcularArea();
-        cu1.calcularPerimetro();
+        //cu1.calcularArea();
+        //cu1.calcularPerimetro();
+
+        //Ejercicio 3
+
+        Persona p1 = new Persona();
+        System.out.println(p1.getCiudad());
+        System.out.println(p1.getBarrio());
 
 
 
